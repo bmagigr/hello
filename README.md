@@ -1,3 +1,3 @@
 # hello
-test repository;
+test repository
 Here is a test project from babis
